@@ -37,7 +37,7 @@ Vast amount of textual information available on the web, we try to classify the 
 - Using the keras default embedding layer
 - Refer notebook for code and explanation
 
-## Padded-CNN-LSTM.ipynb
+## Word2vec-Doc2vec-FFN-Tensorboard.ipynb
 
 - Word2vec , doc2vec models using gensim , fed into tensors for a tensorboard visualisation
 - The doc2vec vectors are fed into a deep feed forward neural network
