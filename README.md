@@ -52,4 +52,4 @@ Vast amount of textual information available on the web, we try to classify the 
 - The sentences are then passed into our established model
 - Predictions are made for these sentences(unseen data)
 - The final webpage displays the title , image and the predictions for that particular url recipe page
-
+- Refer python script for code and explanation
