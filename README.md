@@ -54,4 +54,4 @@ Vast amount of textual information available on the web, we try to classify the 
 - The final webpage displays the title , image and the predictions for that particular url recipe page
 - Refer python script for code and explanation
 
-<a href ="https://gyazo.com/5be2ec48bbcb206f62c3057a1843c63e"> <img src="https://gyazo.com/5be2ec48bbcb206f62c3057a1843c63e.gif"></a>
+https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif
