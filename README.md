@@ -2,7 +2,7 @@
 
 This project is foccussed on exploring different methods to classify our text information.
 
-## Doc2vec visual on tensorboard , added colors for our five different classes
+## Doc2vec (treating each sentence as a document) visual on tensorboard , added colors for our five different classes
 ![tenorboard](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
 ![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972974/078529a6-3657-11e7-85c6-d1f3a20506f9.gif)
 
