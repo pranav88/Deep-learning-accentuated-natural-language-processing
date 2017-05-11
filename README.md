@@ -2,6 +2,13 @@
 
 This project is foccussed on exploring different methods to classify our text information.
 
+## Doc2vec visual on tensorboard , added colors for our five different classes
+![tenorboard](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
+![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972974/078529a6-3657-11e7-85c6-d1f3a20506f9.gif)
+
+## Word2vec visual on tensorboard
+![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972928/d169854c-3656-11e7-9210-2164f1fe5021.gif)
+
 ## Motivation
 
 Vast amount of textual information available on the web, we try to classify the the sentences specific to food from a raw html as belonging to one of the five different classes Preparation, Ingredients, Nutrition, Recipe, Title
@@ -53,9 +60,4 @@ Vast amount of textual information available on the web, we try to classify the 
 - Predictions are made for these sentences(unseen data)
 - The final webpage displays the title , image and the predictions for that particular url recipe page
 - Refer python script for code and explanation
-## Doc2vec visual on tensorboard , added colors for different labels
-![tenorboard](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
-![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972974/078529a6-3657-11e7-85c6-d1f3a20506f9.gif)
 
-## Word2vec visual on tensorboard
-![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972928/d169854c-3656-11e7-9210-2164f1fe5021.gif)
