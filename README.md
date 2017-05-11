@@ -61,3 +61,11 @@ Vast amount of textual information available on the web, we try to classify the 
 - The final webpage displays the title , image and the predictions for that particular url recipe page
 - Refer python script for code and explanation
 
+## Results
+
+- The results produced by the glove-cnn-keras model were very encouraging. An accuracy of close to 97 percent was obtained.
+  Pre-trained wiki glove embeddings played an important role in getting up the accuracy. The fucntionality in keras to specify              your own embedding layer was helpful.
+  
+## Future Work
+
+- Extend this problem to a multi-class , multi-label problem. Set-up the front-end on the Google Cloud to extend the pipeline that has already been established.
