@@ -54,4 +54,5 @@ Vast amount of textual information available on the web, we try to classify the 
 - The final webpage displays the title , image and the predictions for that particular url recipe page
 - Refer python script for code and explanation
 
-![Demo](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
+![tenorboard](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
+![tensorboard](https://cloud.githubusercontent.com/assets/19973822/25972928/d169854c-3656-11e7-9210-2164f1fe5021.gif)
