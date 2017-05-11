@@ -54,4 +54,4 @@ Vast amount of textual information available on the web, we try to classify the 
 - The final webpage displays the title , image and the predictions for that particular url recipe page
 - Refer python script for code and explanation
 
-![Bilby Stampede](https://gyazo.com/696db1497b2eb3b82724af1be6ea2c4a)
+https://gyazo.com/696db1497b2eb3b82724af1be6ea2c4a
