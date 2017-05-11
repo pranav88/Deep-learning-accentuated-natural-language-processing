@@ -30,7 +30,7 @@ Vast amount of textual information available on the web, we try to classify the 
 
 ## Glove-cnn-lstm-gpu.ipynb
 
-- The best model run on GPUs , the notebook is modified run locally over 1 epoch
+- The best model ran on GPUs , the notebook is modified run locally over 1 epoch
 - On the cloud the model was run over 60 epochs , screenshots of which are attached as png files
 - Color coded confusion matrix and also a function to identify the misclassified sentences
 - Model checkpointing to identify the weights of the model with highest accuracy
