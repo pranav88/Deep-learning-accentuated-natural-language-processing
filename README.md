@@ -1,6 +1,6 @@
 # Deep-learning-accentuated-natural-language-processing
 
-This project is foccussed on exploring different methods to classify our text information.
+This project is focused on exploring different methods to classify our text information.
 
 ## Doc2vec (treating each sentence as a document) visual on tensorboard , added colors for our five different classes
 ![tenorboard](https://cloud.githubusercontent.com/assets/19973822/25972700/ec9d8ba2-3655-11e7-8f47-aa3247d2faf3.gif)
@@ -11,7 +11,7 @@ This project is foccussed on exploring different methods to classify our text in
 
 ## Motivation
 
-Vast amount of textual information available on the web, we try to classify the the sentences specific to food from a raw html as belonging to one of the five different classes Preparation, Ingredients, Nutrition, Recipe, Title
+Vast amount of textual information available on the web, we try to classify the the sentences specific to food from a raw html as belonging to one of the five different classes Preparation, Ingredients, Nutrition, Recipe, Title.
 
 ## Approach
 
